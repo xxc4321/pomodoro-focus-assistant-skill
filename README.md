@@ -13,7 +13,7 @@ pomodoro-focus-assistant-skill
 Pomodoro Focus Assistant Skill
 
 
-一个基于扣子/Coze平台的AI生产力Agent，通过15分钟原子化工作法解决目标太多、注意力碎片化的问题，实现从大目标拆解到执行、复盘的完整闭环。
+一个可以应用到任何AI生产力Agent Skill，通过15分钟原子化工作法解决目标太多、注意力碎片化的问题，实现从大目标拆解到执行、复盘的完整闭环。
 
 
 设计理念
